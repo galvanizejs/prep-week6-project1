@@ -1,5 +1,5 @@
 # jQuery (Project 1)
 
-This project will give you an opprotunity to start practicing with jQuery. 
+This project will give you an opportunity to start practicing with jQuery. 
 
 > Reminder: Solution Guide is provided for this project.
